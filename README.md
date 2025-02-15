@@ -18,4 +18,4 @@ This project is a simple Task Manager implemented using Python and Tkinter. It a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/ishaan2304/Task-Manager.git
